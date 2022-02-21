@@ -2,6 +2,7 @@ The following is a list of free and/or open source books on machine learning, st
 
 ## Machine Learning / Data Mining
 
+* [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)  - Book (free to read online) + Code
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
 * [An Introduction To Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
@@ -59,6 +60,7 @@ The following is a list of free and/or open source books on machine learning, st
 - [Automated Machine Learning in Action](https://www.manning.com/books/automated-machine-learning-in-action) - Qingquan Song, Haifeng Jin, and Xia Hu - Optimize every stage of your machine learning pipelines with powerful automation components and cutting-edge tools like AutoKeras and Keras Tuner.
 - [Distributed Machine Learning Patterns](https://www.manning.com/books/distributed-machine-learning-patterns) - Yuan Tang - Practical patterns for scaling machine learning from your laptop to a distributed cluster.
 - [Human-in-the-Loop Machine Learning: Active learning and annotation for human-centered AI](https://www.manning.com/books/human-in-the-loop-machine-learning) - Robert (Munro) Monarch - a practical guide to optimizing the entire machine learning process, including techniques for annotation, active learning, transfer learning, and using machine learning to optimize every step of the process.
+- [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp) - Maurucio Aniche - This book’s practical case-studies reveal feature engineering techniques that upgrade your data wrangling—and your ML results.
 
 
 ## Deep Learning
@@ -92,6 +94,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Deep Learning for Natural Lanuage Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
 * [Natural Language Processing in Action, Second Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) Early access book
 * [Getting Started with Natural Language Processing in Action](https://www.manning.com/books/getting-started-with-natural-language-processing) Early access book
+* [Transfer Learnin for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) by Paul Azunre
 
 ## Information Retrieval
 
