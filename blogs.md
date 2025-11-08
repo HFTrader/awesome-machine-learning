@@ -79,6 +79,14 @@ Data Science / Statistics
 * https://datatalks.club/articles.html
 * https://www.nbshare.io/notebooks/data-science/
 * https://www.blog.trainindata.com/
+* https://lilianweng.github.io/ - Lil'Log by Lilian Weng (OpenAI)
+* https://jalammar.github.io/ - Jay Alammar's visual explanations of ML
+* https://sebastianraschka.com/blog/ - Sebastian Raschka's ML blog
+* https://eugeneyan.com/ - Eugene Yan's blog on ML in production
+* https://huyenchip.com/blog/ - Chip Huyen's blog on ML systems and MLOps
+* https://thegradient.pub/ - The Gradient - ML research and trends
+* https://www.interconnects.ai/ - Interconnects by Nathan Lambert on AI and LLMs
+* https://www.assemblyai.com/blog/ - AssemblyAI blog on speech AI and LLMs
 
 Math
 ----

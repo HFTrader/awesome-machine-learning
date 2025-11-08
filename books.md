@@ -2,6 +2,11 @@ The following is a list of free and/or open source books on machine learning, st
 
 ## Machine Learning / Data Mining
 
+* [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - Sebastian Raschka - Comprehensive guide to understanding and building LLMs from first principles (2024).
+* [Generative Deep Learning, 2nd Edition](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) - David Foster - Updated guide covering GANs, VAEs, and diffusion models (2023).
+* [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) - Chip Huyen - Comprehensive guide to building reliable ML systems in production (2022).
+* [Machine Learning Engineering](http://www.mlebook.com/) - Andriy Burkov - Practical guide to building and deploying ML systems (2020).
+* [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) - Lewis Tunstall, Leandro von Werra, Thomas Wolf - Building language applications with Hugging Face (2022).
 * [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)  - Book (free to read online) + Code
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]

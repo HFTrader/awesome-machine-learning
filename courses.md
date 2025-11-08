@@ -68,3 +68,9 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Data Science Machine Learning Course on Scaler](https://www.scaler.com/courses/data-science-machine-learning-course/) - $
 * [LabEx Machine Learning Skill Tree](https://labex.io/skilltrees/ml) - free and $ Hands-on labs
 * [LLM Evaluation with Opik](https://www.comet.com/site/llm-course/) - free Hands-on labs
+* [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Multiple free short courses on LLMs, ChatGPT, LangChain, and more
+* [Hugging Face Course](https://huggingface.co/learn/nlp-course/chapter1/1) - Free comprehensive NLP and Transformers course
+* [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) - Free course on building LLM applications
+* [LLM University by Cohere](https://docs.cohere.com/docs/llmu) - Free courses on LLMs and their applications
+* [Andrej Karpathy's Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - Free video series building neural networks from scratch
+
