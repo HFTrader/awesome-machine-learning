@@ -4,6 +4,7 @@ Blogs/Podcasts
 * [Hacker News for Data Science](https://www.datatau.com/news)
 * [LightTag's Labeled Data Blog](https://lighttag.io/blog)
 * [Freecodecamp articles](https://www.freecodecamp.org/news/tag/machine-learning/)
+* [Fennel Blog](https://fennel.ai/blog/)
 
 Podcasts
 --------
@@ -15,10 +16,11 @@ Podcasts
 * [Linear Digressions](https://lineardigressions.com)
 * [Data Stories](http://datastori.es/)
 * [Learning Machines 101](https://www.learningmachines101.com/)
-* [Not So Standard Deviations](https://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
 * [TWIMLAI](https://twimlai.com/shows/)
 * [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 * [DataTalks.Club](https://anchor.fm/datatalksclub)
+* [Super Data Science Podcast with Jon Krohn](https://www.youtube.com/@SuperDataScienceWithJonKrohn)
+* [AI Stories Podcast](https://www.youtube.com/@aistoriespodcast)
 
 Newsletters
 -----------
@@ -26,6 +28,13 @@ Newsletters
 * [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 * [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa)
 * [The Batch](https://read.deeplearning.ai/the-batch/) Andrew Ng's weekly AI newsletter for engineers, executives, and enthusiasts including updates on recent AI research developments.
+* [BuzzRobot AI Newsletter](https://buzzrobot.substack.com/). Exclusive talks by top researchers on cutting-edge artificial intelligence papers.
+* [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI, for leaders and changemakers.
+
+Practice Questions
+-----------
+
+* [bnomial](https://today.bnomial.com/). Solve one Machine Learning questions daily and win exciting prizes.
 
 Data Science / Statistics
 -------------------------
@@ -69,6 +78,7 @@ Data Science / Statistics
 * [LightTag NLP Blog](https://www.lighttag.io/blog)
 * https://datatalks.club/articles.html
 * https://www.nbshare.io/notebooks/data-science/
+* https://www.blog.trainindata.com/
 
 Math
 ----

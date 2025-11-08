@@ -5,7 +5,8 @@ The following is a list of free and/or open source books on machine learning, st
 * [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)  - Book (free to read online) + Code
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
-* [An Introduction To Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
+* [An Introduction To Statistical Learning With Applications In R](https://drive.usercontent.google.com/download?id=106d-rN7cXpyAkgrUqjcPONNCyO-rX7MQ&export=download) - Book + R Code
+* [An Introduction To Statistical Learning With Applications In Python](https://drive.usercontent.google.com/download?id=1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1&export=download) - Book + Python Code
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Book
 * [Computer Age Statistical Inference (CASI)](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) ([Permalink as of October 2017](https://perma.cc/J8JG-ZVFW)) - Book
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book + IPython Notebooks
@@ -45,11 +46,9 @@ The following is a list of free and/or open source books on machine learning, st
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
 - [Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz and Shai Ben-David
-- [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works) - Mostafa Samir. Early access book that intorduces machine learning from both practical and theoretical aspects in a non-threating way. 
 - [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)  [Free Chapter] Carl Gold - Hands on course in applied data science in Python and SQL, taught through the use case of customer churn.
 - [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Alexey Grigorev - a project-based approach on learning machine learning (early access).
 - [AI Summer](https://theaisummer.com/) A blog to help you learn Deep Learning an Artificial Intelligence
-- [Python Data Science Handbook- Oriely](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Approaching Almost any Machine learning problem Abhishek Thakur](https://github.com/abhishekkrthakur/approachingalmost)
 - [MLOps Engineering at Scale](https://www.manning.com/books/mlops-engineering-at-scale) - Carl Osipov - Guide to bringing your experimental machine learning code to production using serverless capabilities from major cloud providers.
@@ -63,15 +62,24 @@ The following is a list of free and/or open source books on machine learning, st
 - [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp) - Maurucio Aniche - This book’s practical case-studies reveal feature engineering techniques that upgrade your data wrangling—and your ML results.
 - [Metalearning: Applications to Automated Machine Learning and Data Mining](https://link.springer.com/content/pdf/10.1007/978-3-030-67024-5.pdf) - Pavel Brazdil, Jan N. van Rijn, Carlos Soares, Joaquin Vanschoren
 - [Managing Machine Learning Projects: From design to deployment](https://www.manning.com/books/managing-machine-learning-projects) - Simon Thompson
-- [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning) - Robert Ness - Practical introduction to building AI models that can reason about causality.
+- [Causal AI](https://www.manning.com/books/causal-machine-learning) - Robert Ness - Practical introduction to building AI models that can reason about causality.
 - [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) - Quan Nguyen - Book about building Bayesian optimization systems from the ground up.
-
-
+- [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth) - Vadim Smolyakov - Book about practical implementations of dozens of ML algorithms.
+- [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms) - Alaa Khamis - Book about how to solve design, planning, and control problems using modern machine learning and AI techniques.
+- [Practical Gradient Boosting](https://www.amazon.com/dp/B0BL1HRD6Z) by Guillaume Saupin
+- [Machine Learning System Design](https://www.manning.com/books/machine-learning-system-design) - Valerii Babushkin and Arseny Kravchenko - A book about planning and designing successful ML applications.
+- [Fight Fraud with Machine Learning](https://www.manning.com/books/fight-fraud-with-machine-learning) - by Ashish Ranjan Jha - A book about developing scalable and tunable models that can spot and stop fraudulent activity.
+- [Machine Learning for Drug Discovery](https://www.manning.com/books/machine-learning-for-drug-discovery) - by Noah Flynn - A book that introduces the machine learning and deep learning techniques that drive modern medical research.
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) - 2022 edition By Kevin P. Murphy - A must have for PhD students and ML researchers. An exceptional book that covers the basic foundational ML concepts like optimization decision theory information theory and ML maths(linear algebra & probability theory) before delving into traditional but important models Linear Models , then modern supervised and unsupervised Deep learning models.
+- [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) - 2023 edition By Kevin P. Murphy Sequel to the first book for those seeking to learn about more niche but important topics. Also includes technical coverage on latest models like diffusion and generative modeling.
+- [Python Feature Engineering Cookbook](https://www.amazon.com/Python-Feature-Engineering-Cookbook-complete/dp/B0DBQDG7SG) - A hands-on guide to streamline data preprocessing and feature engineering in your machine learning projects.
+  
 ## Deep Learning
 
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 * [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) Early access book
+* [Deep Learning with Python, Third Edition](https://www.manning.com/books/deep-learning-with-python-third-edition) Early access book
 * [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) Early access book
 * [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) Early access book
 * [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) Early access book
@@ -79,12 +87,13 @@ The following is a list of free and/or open source books on machine learning, st
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) Early access book
 * [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python) Early access book
 * [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data) Early access book
-* [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 * [Deep Learning](https://www.deeplearningbook.org/)[Ian Goodfellow, Yoshua Bengio and Aaron Courville]
 * [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) 
 * [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) Early access book
 * [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) Early access book
-* [Deep Learning for Natural Lanuage Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
+* [Deep Learning for Natural Language Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
+* [Deep Learning with R, Third Edition](https://www.manning.com/books/deep-learning-with-r-third-edition)
+* [AI Model Evaluation](https://www.manning.com/books/ai-model-evaluation) 
 
 ## Natural Language Processing
 
@@ -95,10 +104,11 @@ The following is a list of free and/or open source books on machine learning, st
 * [Natural Language Processing in Action, Second Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) Early access book
 * [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) Early access book
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) Early access book
-* [Deep Learning for Natural Lanuage Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
+* [Deep Learning for Natural Language Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
 * [Natural Language Processing in Action, Second Edition](https://www.manning.com/books/natural-language-processing-in-action-second-edition) Early access book
 * [Getting Started with Natural Language Processing in Action](https://www.manning.com/books/getting-started-with-natural-language-processing) Early access book
 * [Transfer Learnin for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) by Paul Azunre
+
 
 ## Information Retrieval
 
@@ -141,4 +151,5 @@ The following is a list of free and/or open source books on machine learning, st
 ## Calculus
 
 * [Calculus Made Easy](https://github.com/lahorekid/Calculus/blob/master/Calculus%20Made%20Easy.pdf)
-* [calculus by ron larson](https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/860/%20CalculusTextbook.pdf)
+* [calculus by ron larson](https://www.pdfdrive.com/calculus-e183995561.html)
+* [Active Calculus by Matt Boelkins](https://scholarworks.gvsu.edu/books/20/)
