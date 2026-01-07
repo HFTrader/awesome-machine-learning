@@ -2,8 +2,6 @@
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z85JMPK)
-
 > **📢 November 2025 Update:** This list has been significantly updated to reflect the modern ML landscape! New additions include:
 > - **Large Language Models (LLMs)**: LangChain, LlamaIndex, vLLM, and 20+ LLM frameworks
 > - **Generative AI**: Stable Diffusion, Diffusers, ComfyUI, and audio generation tools
@@ -1945,5 +1943,3 @@ be
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * References for Go were mostly cut-and-pasted from [gopherdata](https://github.com/gopherdata/resources/tree/master/tooling)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z85JMPK)
